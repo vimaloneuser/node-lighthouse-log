@@ -1,0 +1,20 @@
+{
+  "name": "node-lighthouse-log",
+  "version": "1.0.0",
+  "description": "This package will be used for custom logs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "peerDependencies": {
+    "node": "^14.0.0"
+  },
+  "author": "Vimal Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
