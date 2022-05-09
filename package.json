@@ -1,6 +1,6 @@
 {
   "name": "node-lighthouse-log",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This package will be used for custom logs ",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimaloneuser/node-lighthouse-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vimaloneuser/node-lighthouse-log/issues"
+  },
+  "homepage": "https://github.com/vimaloneuser/node-lighthouse-log#readme"
 }
