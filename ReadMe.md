@@ -1,4 +1,4 @@
-# node-lighthouse-log
+# node-lighthouse-error-log
 A function which calls a lighthouse log api
 # Motivation
 Instead of calling lighouse log api all the time. Why not to call one function which can manage all our work for logs. 
@@ -9,7 +9,7 @@ You need to register with this Light house portal  http://lighthouse.itpathsolut
 
 # Installation
 ```js live=true
-$ npm i node-lighthouse-log
+$ npm i node-lighthouse-error-log
 ```
 
 # ENV setup
@@ -21,12 +21,12 @@ DELIVERABLE_KEY=your deliverable key
 
 # Usage
 ```js live=true
-const { Log } = require("node-lighthouse-log");
+const { Log } = require("node-lighthouse-error-log");
 ```
 # Example 
 
 ```js live=true
-const { Log } = require("node-lighthouse-log");
+const { Log } = require("node-lighthouse-error-log");
 
 exports.controller = () => {
 
