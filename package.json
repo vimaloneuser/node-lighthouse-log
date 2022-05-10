@@ -1,6 +1,6 @@
 {
   "name": "node-lighthouse-log",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This package will be used for custom logs ",
   "main": "index.js",
   "scripts": {
